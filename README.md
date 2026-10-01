@@ -5,7 +5,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World!;I+am+Maddat)](https://git.io/typing-svg)
 
-**Greetings, Earthlings! I go by the name Riton.
+**Greetings, Earthlings! I go by the name Sushil.
 <br>
 I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.**
 
